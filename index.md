@@ -4,8 +4,8 @@ icon: lucide/users
 tags: galeria
 status: not-started
 hero_image: attachments/EnsaioNESTOR_Luna+Marta+Filipa.jpg
-hero_title: NESTOR - Dá forma à imaginação
-hero_subtitle: Filipa Puna ; Luna Burgos ; Marta Valério
+hero_title: Dá forma à imaginação
+hero_subtitle: Brinquedos com jogo de cartas
 hero_height: 100vh
 hero_overlay: 0.3
 hero_align: center
