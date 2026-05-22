@@ -3,8 +3,8 @@ title: FLM
 icon: lucide/users
 tags: galeria
 status: not-started
-hero_image: attachments/hero.jpg
-hero_title: NESTOR - dá forma à imaginação
+hero_image: attachments/EnsaioNESTOR_Luna+Marta+Filipa.jpg
+hero_title: NESTOR - Dá forma à imaginação
 hero_subtitle: Filipa Puna ; Luna Burgos ; Marta Valério
 hero_height: 100vh
 hero_overlay: 0.3
