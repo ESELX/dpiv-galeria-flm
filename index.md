@@ -30,8 +30,7 @@ group_number: ""
 ---
 
 ## Contexto de Design
-![](attachments/placeholder.png)
-> Nesta zona pretenderão mostrar o que relaciona estes produtos que apresentam na galeria - a temática, conceito comum, objectivos comuns, brincadeiras (funções) comuns, entre outros...
+Nesta zona pretenderão mostrar o que relaciona estes produtos que apresentam na galeria - a temática, conceito comum, objectivos comuns, brincadeiras (funções) comuns, entre outros...![](EnsaioNESTOR_Luna+Marta+Filipa.jpg)
 
 (devem colocar imagens no corpo a qq momento, bastará que as arrastem para aqui.)
 
