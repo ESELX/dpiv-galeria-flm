@@ -21,11 +21,11 @@ group_number: ""
 
 ## Elementos do Grupo
 
-| Número  | Nome    |
-| ------- | ------- |
-| 20XXXXX | Aluno A |
-| 20YYYYY | Aluno B |
-| 20ZZZZZ | Aluno C |
+| Número  | Nome          |
+| ------- | ------------- |
+| 2024297 | Filipa Puna   |
+| 2024289 | Luna Burgos   |
+| 2024347 | Marta Valério |
 
 ---
 
