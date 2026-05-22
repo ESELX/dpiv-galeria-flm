@@ -14,7 +14,7 @@ student_name: ""
 student_number: ""
 ---
 
-# Nome do Produto
+# Jogo das Silhuetas
 
 <!--
   HERO: idealmente uma pseudo-sessão fotográfica do produto
