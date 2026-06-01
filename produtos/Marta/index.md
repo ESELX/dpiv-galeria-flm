@@ -53,7 +53,7 @@ Como se brinca, idade-alvo, montagem, conformidade com a Diretiva 2009/48/CE.
 Imagens-chave que sintetizam o produto final.
 
 ![](attachments/MValerio_Silhuetas.jpg)
-![](attachments/placeholder.png)
+![](attachments/cartas_cores.png)
 
 ---
 
