@@ -15,7 +15,7 @@ group_name: ""
 group_number: ""
 ---
 
-# Nome do Grupo
+# Dá forma à imaginação
 
 > Substituam este parágrafo por uma frase de apresentação do grupo (uma linha, conceptualmente forte). A imagem de capa acima (`attachments/hero.jpg`) deve ser uma **fotografia de conjunto** dos trabalhos do grupo, mais conceptual, que espelhe a estratégia coletiva.
 
@@ -53,7 +53,7 @@ Resumo, referências coletivas e moodboard do grupo encontram-se em [contexto.md
   <!-- duplicar o bloco abaixo para cada produto do grupo -->
 
   <a class="gallery-card" href="produtos/_modelo/">
-    <img src="produtos/_modelo/attachments/hero.jpg" alt="" />
+    <img src="produtos/_modelo/attachments/FPuna_Casas.png" alt="" />
     <h3>Nome do Produto</h3>
     <p>Nome do Aluno</p>
   </a>
