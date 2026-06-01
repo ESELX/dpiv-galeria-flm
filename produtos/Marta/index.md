@@ -37,7 +37,7 @@ O **Jogo das Silhuetas** é um jogo de raciocínio e percepção espacial é com
     
 - **Porquê:** O produto estimula a transição do 2D (a imagem da carta) para o plano 3D (a construção física). Promove a paciência, exercita a coordenação motora fina e o raciocínio lógico.
 
-![](attachments/placeholder.png)
+![](attachments/conceito_Marta.png)
 
 ## Enquadramento
 
