@@ -29,7 +29,13 @@ Segue a estrutura de **prancha-resumo** + **esquema-base** (C-E-T-F).
 
 ## Conceito
 
-Ideia central do produto. O que é, para quem, porquê.
+O **Jogo das Silhuetas** é um jogo de raciocínio e percepção espacial é composto por peças de madeira com formas orgânicas com encaixes deslizantes, acompanhado por um baralho de cartas que apresentam uma silhueta para decifrar.
+
+- **O que é:** Um quebra-cabeça tridimensional onde o objetivo é replicar a silhueta bidimensional ilustrada na carta.
+    
+- **Para quem:** Crianças a partir dos 4/5 anos, jovens, adultos e idosos que procuram desafios para treinar o cérebro.
+    
+- **Porquê:** O produto estimula a transição do 2D (a imagem da carta) para o plano 3D (a construção física). Promove a paciência, exercita a coordenação motora fina e o raciocínio lógico.
 
 ![](attachments/placeholder.png)
 
