@@ -1,11 +1,11 @@
 ---
-title: "Nome do Produto"
+title: Casas de Portugal
 icon: lucide/box
 tags: galeria
 status: not-started
 hero_image: attachments/hero.jpg
-hero_title: "Nome do Produto"
-hero_subtitle: "Nome do Aluno · 2025-26"
+hero_title: Casas de Portugal
+hero_subtitle: Filipa Puna · 2025-26
 hero_height: 80vh
 hero_overlay: 0.25
 hero_align: center
