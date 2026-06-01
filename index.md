@@ -50,13 +50,10 @@ Resumo, referências coletivas e moodboard do grupo encontram-se em [contexto.md
 
   <!-- duplicar o bloco abaixo para cada produto do grupo -->
 
-  <a class="gallery-card" href="produtos/_modelo/">
-    <img src="produtos/_modelo/attachments/FPuna_Casas.png" alt="" />
-    <h3>Casas de Portugal</h3>
-    <p>Filipa Puna</p>
-  </a>
+  
+  
     <a class="gallery-card" href="produtos/Filipa/">
-    <img src="produtos/Filipa/attachments/FPuna_Casas.png" alt="" />
+    <img src="produtos/Filipa/attachments/FPuna_Casas.jpg" alt="" />
     <h3>Casas de Portugal</h3>
     <p>Filipa Puna</p>
   </a>
