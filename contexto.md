@@ -48,12 +48,12 @@ In summary, all Nestor products are connected by a shared vision that values cre
 
 ### 2.1. Recolha de Objetos a Redesenhar/Remisturar
 
-Catálogo de objetos de partida que o grupo identificou para o redesenho. Para cada objeto: imagem, origem, motivo da escolha.
+Catálogo de objetos de partida que o nosso grupo identificou para o redesenho.
 
-![Objeto 1](attachments/placeholder.png)
+![Objeto 1](attachments/referencia.jpg)
 
-- **Objeto 1** — origem / autoria / razão da escolha
-- **Objeto 2** — ...
+- **Imagem 1** — **TomTecT**, de Tom van der Bruggené um jogo de construção feito com peças de madeira e com conectores de plástico para unir as peças umas às outras. 
+ Escolhemos a marca TomTect como referência por permitir a construção através de desafios simples e modulares. No redesenho, os encaixes foram integrados diretamente nas próprias peças de madeira, eliminando componentes externos e tornando o sistema mais intuitivo e contínuo. As peças foram redesenhadas com a inspiração da artista Misha Milovanovich. Foi ainda introduzido um sistema de cartas com desafios, que orienta a construção de formas e estruturas, combinando exploração livre com objetivos definidos.
 
 ### 2.2. Moodboard
 
