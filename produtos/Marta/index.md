@@ -39,7 +39,7 @@ O **Jogo das Silhuetas** é um jogo de raciocínio e percepção espacial é com
 
 ## Enquadramento
 
-Posicionamento em relação ao contexto de grupo (ver [contexto](../../contexto.md)) e à recolha de objetos a redesenhar.
+O projeto surge no âmbito da marca Nestor e foi desenvolvido a partir da análise e do redesenho do sistema construtivo TomTect, redesenhei o seu princípio modular através da integração dos encaixes diretamente nas peças de madeira. Enquanto a Tomtect usa conectores de plástico para unir as peças de madeira, o sistema de encaixe que usei simplifica o material usado e elimina o plástico, integra a união entre peças de madeira através de encaixes deslizantes. As peças e as suas formas foram influenciadas pelo trabalho da artista Misha Milovanovich, que utiliza formas orgânicas nos seus trabalhos. O resultado desta combinação é um produto que combina construção, desafio e expressão, adaptando-se aos diferentes níveis da coleção. (ver [contexto](../../contexto.md)) 
 
 ## Tecnologia
 
@@ -49,7 +49,13 @@ Materiais (espécie de madeira): Pinus https://www.redepro.com/p/10092193/compen
 
 ## Função
 
-Como se brinca, idade-alvo, montagem, conformidade com a Diretiva 2009/48/CE.
+### Como se brinca?
+
+1. O jogador retira uma carta do baralho, que mostra a silhueta/sombra de uma estrutura combinada.
+    
+2. O jogador deve analisar a silhueta e selecionar, entre as peças de madeira disponíveis, quais as formas necessárias para recriar aquele contorno exacto.
+    
+3. Utilizando o sistema de **encaixe deslizante**, o jogador monta as peças no ângulo e posição corretos até que a projeção da sua construção física corresponda à imagem da carta.
 
 ## Apresentação
 
