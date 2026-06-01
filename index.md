@@ -3,9 +3,9 @@ title: FLM
 icon: lucide/users
 tags: galeria
 status: not-started
-hero_image: attachments/hero.jpg
-hero_title: NESTOR - dá forma à imaginação
-hero_subtitle: Filipa Puna ; Luna Burgos ; Marta Valério
+hero_image: attachments/EnsaioNESTOR_Luna+Marta+Filipa.jpg
+hero_title: Dá forma à imaginação
+hero_subtitle: Brinquedos com jogo de cartas
 hero_height: 100vh
 hero_overlay: 0.3
 hero_align: center
@@ -30,9 +30,7 @@ group_number: ""
 ---
 
 ## Contexto de Design
-![](attachments/placeholder.png)
-> Nesta zona pretenderão mostrar o que relaciona estes produtos que apresentam na galeria - a temática, conceito comum, objectivos comuns, brincadeiras (funções) comuns, entre outros...
-
+Nesta zona pretenderão mostrar o que relaciona estes produtos que apresentam na galeria - a temática, conceito comum, objectivos comuns, brincadeiras (funções) comuns, entre outros...![](EnsaioNESTOR_Luna+Marta+Filipa.jpg)
 (devem colocar imagens no corpo a qq momento, bastará que as arrastem para aqui.)
 
 Resumo, referências coletivas e moodboard do grupo encontram-se em [contexto.md](contexto.md).
