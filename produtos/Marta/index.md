@@ -54,7 +54,7 @@ Imagens-chave que sintetizam o produto final.
 
 ![](attachments/MValerio_Silhuetas.jpg)
 ![](attachments/cartas_cores.png)
-
+![](attachments/pin_silhuetas.png)
 ---
 
 ## Processo
