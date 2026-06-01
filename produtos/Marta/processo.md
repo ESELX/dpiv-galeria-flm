@@ -30,11 +30,7 @@ Maquinação CNC e montagem.
 ![](attachments/cnc1.jpeg)
 ![](attachments/cnc2.jpeg)
 ![](attachments/cnc3.jpeg)
-## 3. Protótipos Exploratórios
 
-Testes CNC prévios, ensaios em escala, experiências de juntas/encaixes.
-
-![](attachments/placeholder.png)
 
 ## 4. Modelos 3D
 
@@ -42,13 +38,7 @@ Embed do Fusion (visualização do modelo paramétrico).
 
 https://a360.co/4nqYoPa
 
-## 5. Outros Modelos
-
-Modelos físicos exploratórios, em cartão, espuma, madeira de teste.
-
-![](attachments/placeholder.png)
-
-## 6. Esboços e Pranchas-Resumo
+## 5. Esboços e Pranchas-Resumo
 
 Desenhos manuais, 
 pranchas A3 de síntese, 
