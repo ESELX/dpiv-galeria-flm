@@ -58,12 +58,12 @@ Resumo, referências coletivas e moodboard do grupo encontram-se em [contexto.md
     <p>Filipa Puna</p>
   </a>
     <a class="gallery-card" href="produtos/Luna/">
-    <img src="produtos/Luna/attachments/hero.jpg" alt="" />
+    <img src="produtos/Luna/attachments/LBurgos_Desafiate.jpg" alt="" />
     <h3>Desafia-te!</h3>
     <p>Luna Burgos</p>
   </a>
     <a class="gallery-card" href="produtos/Marta/">
-    <img src="produtos/Marta/attachments/hero.jpg" alt="" />
+    <img src="produtos/Marta/attachments/MValerio_Silhuetas.jpg" alt="" />
     <h3>Jogo das Silhuetas</h3>
     <p>Marta Valério</p>
   </a>
