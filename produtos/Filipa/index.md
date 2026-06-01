@@ -48,12 +48,12 @@ Como se brinca, idade-alvo, montagem, conformidade com a Diretiva 2009/48/CE.
 
 ## Apresentação
 
-Imagens-chave que sintetizam o produto final.
+Imagens-chave que sintetizam o produto final. Imagem 1/4: Gerada por IA; Imagem 2/3: Mockups 
 
-![](attachments/placeholder.png)
-![](attachments/placeholder.png)
-
----
+![](attachments/FPuna_Casas.jpg)
+![](attachments/cartas_casas.png)
+![](attachments/pin1.png)
+![](attachments/velhote.jpeg)
 
 ## Processo
 
