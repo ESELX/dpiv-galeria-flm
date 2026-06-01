@@ -18,7 +18,6 @@ Página explicativa do contexto, em concordância com a apresentação produzida
 
 ## 1. Resumo / Abstract
 
-> Máximo 500 palavras. Preferencialmente em **PT** e **EN**.
 
 ### Resumo (PT)
 
