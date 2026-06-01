@@ -3,7 +3,7 @@ title: Casas de Portugal
 icon: lucide/box
 tags: galeria
 status: not-started
-hero_image: attachments/hero.jpg
+hero_image: attachments/FPuna_Casas.jpg
 hero_title: Casas de Portugal
 hero_subtitle: Filipa Puna · 2025-26
 hero_height: 80vh
