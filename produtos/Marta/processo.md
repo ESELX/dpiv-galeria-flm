@@ -25,11 +25,11 @@ Fotografias do protótipo em utilização por uma criança de 4 anos.
 
 ## 2. Processo de Prototipagem
 
-Maquinação CNC, montagem, acabamentos pontuais. 
+Maquinação CNC e montagem.
 
-![](attachments/placeholder.png)
-
-
+![](attachments/cnc1.jpeg)
+![](attachments/cnc2.jpeg)
+![](attachments/cnc3.jpeg)
 ## 3. Protótipos Exploratórios
 
 Testes CNC prévios, ensaios em escala, experiências de juntas/encaixes.
