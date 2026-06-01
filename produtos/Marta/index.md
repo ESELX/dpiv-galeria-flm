@@ -51,11 +51,11 @@ Materiais (espécie de madeira): Pinus https://www.redepro.com/p/10092193/compen
 
 ### Como se brinca?
 
-1. O jogador retira uma carta do baralho, que mostra a silhueta/sombra de uma estrutura combinada.
+ - O jogador retira uma carta do baralho, que lhe vai mostrar uma silhueta de uma estrutura.
     
-2. O jogador deve analisar a silhueta e selecionar, entre as peças de madeira disponíveis, quais as formas necessárias para recriar aquele contorno exacto.
+ - O jogador deve analisar a silhueta e selecionar as peças de madeira que possam pertencer à respetiva silhueta e quais são formas necessárias para recriar aquele contorno.
     
-3. Utilizando o sistema de **encaixe deslizante**, o jogador monta as peças no ângulo e posição corretos até que a projeção da sua construção física corresponda à imagem da carta.
+ -  O jogador deve utilizar o sistema de **encaixe deslizante**, monta as peças no ângulo e posição corretos até que a projeção da sua construção física corresponda à imagem da carta.
 
 ## Apresentação
 
