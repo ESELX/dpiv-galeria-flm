@@ -52,11 +52,11 @@ Resumo, referências coletivas e moodboard do grupo encontram-se em [contexto.md
 
   <a class="gallery-card" href="produtos/_modelo/">
     <img src="produtos/_modelo/attachments/FPuna_Casas.png" alt="" />
-    <h3>Nome do Produto</h3>
-    <p>Nome do Aluno</p>
+    <h3>Casas de Portugal</h3>
+    <p>Filipa Puna</p>
   </a>
     <a class="gallery-card" href="produtos/Filipa/">
-    <img src="produtos/Filipa/attachments/hero.jpg" alt="" />
+    <img src="produtos/Filipa/attachments/FPuna_Casas.png" alt="" />
     <h3>Casas de Portugal</h3>
     <p>Filipa Puna</p>
   </a>
