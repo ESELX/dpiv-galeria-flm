@@ -39,10 +39,9 @@ Posicionamento em relação ao contexto de grupo (ver [contexto](../../contexto.
 
 ## Tecnologia
 
-Materiais (espécie de madeira), processos de fabrico (CNC, laser, impressão 3D), software paramétrico, ficheiros técnicos.
+Materiais (espécie de madeira): Pinus https://www.redepro.com/p/10092193/compensado-pinus-10mm-250-x-160-drabecki, processos de fabrico: CNC, software paramétrico: Autodesk Fusion 360. 
 
 - Modelo 3D: <!-- embed Fusion ou link a360.co -->
-- Ficheiros: `attachments/`
 
 ## Função
 
