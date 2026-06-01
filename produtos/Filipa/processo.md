@@ -50,11 +50,9 @@ Modelos físicos exploratórios, em cartão, espuma, madeira de teste.
 
 ## 6. Esboços e Pranchas-Resumo
 
-Desenhos manuais, 
-pranchas A3 de síntese, 
-exploração de variantes.
+Os esboços exploratórios/ prancha resumo das formas e encaixes do projeto Casas de Portugal: 
 
-![](attachments/placeholder.png)
+![](attachments/casas_prancha.jpeg)
 
 ## 7. Pesquisa
 
