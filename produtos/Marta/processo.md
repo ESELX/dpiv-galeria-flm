@@ -1,11 +1,11 @@
 ---
-title: "Processo"
+title: Processo
 icon: lucide/git-branch
 tags: galeria
 status: not-started
-hero_image: ../attachments/hero.jpg
-hero_title: "Processo"
-hero_subtitle: "Iterações, modelos, pesquisa"
+hero_image: ../attachments/MValerio_Silhuetas.jpg
+hero_title: Processo
+hero_subtitle: Iterações, modelos, pesquisa
 hero_height: 50vh
 hero_overlay: 0.3
 hero_align: center
@@ -18,10 +18,10 @@ published: true
 
 ## 1. Protótipo(s)
 
-Fotografias em estúdio com fundo branco do(s) protótipo(s) final(is).
+Fotografias do protótipo em utilização por uma criança de 4 anos.
 
-![Protótipo final](attachments/placeholder.png)
-![](attachments/placeholder.png)
+![Protótipo final](attachments/1.jpg)
+![](attachments/2.jpg)
 
 ## 2. Processo de Prototipagem
 
