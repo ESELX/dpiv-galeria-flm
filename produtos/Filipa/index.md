@@ -1,11 +1,11 @@
 ---
-title: "Nome do Produto"
+title: Casas de Portugal
 icon: lucide/box
 tags: galeria
 status: not-started
-hero_image: attachments/hero.jpg
-hero_title: "Nome do Produto"
-hero_subtitle: "Nome do Aluno · 2025-26"
+hero_image: attachments/FPuna_Casas.jpg
+hero_title: Casas de Portugal
+hero_subtitle: Filipa Puna · 2025-26
 hero_height: 80vh
 hero_overlay: 0.25
 hero_align: center
@@ -14,7 +14,7 @@ student_name: ""
 student_number: ""
 ---
 
-# Nome do Produto
+# Casas de Portugal
 
 <!--
   HERO: idealmente uma pseudo-sessão fotográfica do produto
@@ -22,27 +22,25 @@ student_number: ""
   /Recursos/AI_exps/). Usa attachments/hero.jpg para o frontmatter.
 -->
 
-> Frase-conceito (uma linha): qual é a proposta?
+> Brinquedos modulares inspirados na arquitetura tradicional portuguesa.
 
-A página deve tornar **visualmente percetível** a estratégia de resposta ao enunciado.
-Segue a estrutura de **prancha-resumo** + **esquema-base** (C-E-T-F).
 
 ## Conceito
 
-Ideia central do produto. O que é, para quem, porquê.
+Este projeto consiste num brinquedo de construção modular inspirado nas casas e igrejas tradicionais portuguesas. Produzido a partir de resíduos industriais reaproveitados através de um sistema digital inteligente e de corte CNC, o brinquedo utiliza encaixes de deslize que permitem múltiplas configurações. Destinado a crianças e idosos, promove a sustentabilidade, a motricidade fina e a criatividade de forma lúdica e educativa.
 
 ![](attachments/placeholder.png)
 
 ## Enquadramento
 
-Posicionamento em relação ao contexto de grupo (ver [contexto](../../contexto.md)) e à recolha de objetos a redesenhar.
+O brinquedo insere-se no contexto do grupo através da exploração de formas modulares irregulares e curvas. O desenvolvimento do projeto em grupo partiu da análise de brinquedos de construção modular e do trabalho da artista Misha Milovanovich e brinquedo TomTect, utilizando as suas abordagens formais como ponto de partida para o processo de redesenho. No entanto, para a criação das peças do projeto individual, foi também realizada uma pesquisa sobre a cultura e a arquitetura portuguesa, explorando diferentes tipologias de casas e elementos arquitetónicos característicos de várias regiões do país. Desta forma o brinquedo incentiva não só a criatividade e desenvolvimento da motricidade fina mas também o despertar do interesse das crianças pelo património e pela identidade cultural portuguesa. (ver [contexto](../../contexto.md))
 
 ## Tecnologia
 
-Materiais (espécie de madeira), processos de fabrico (CNC, laser, impressão 3D), software paramétrico, ficheiros técnicos.
+Materiais (espécie de madeira): Pinus https://www.redepro.com/p/10092193/compensado-pinus-10mm-250-x-160-drabecki, processos de fabrico: CNC, software paramétrico: Autodesk Fusion 360. 
 
-- Modelo 3D: <!-- embed Fusion ou link a360.co -->
-- Ficheiros: `attachments/`
+- Modelo 3D: https://a360.co/4o1ItXH 
+
 
 ## Função
 
@@ -50,12 +48,12 @@ Como se brinca, idade-alvo, montagem, conformidade com a Diretiva 2009/48/CE.
 
 ## Apresentação
 
-Imagens-chave que sintetizam o produto final.
+Imagens-chave que sintetizam o produto final. Imagem 1/4: Gerada por IA; Imagem 2/3: Mockups 
 
-![](attachments/placeholder.png)
-![](attachments/placeholder.png)
-
----
+![](attachments/FPuna_Casas.jpg)
+![](attachments/cartas_casas.png)
+![](attachments/pin1.png)
+![](attachments/velhote.jpeg)
 
 ## Processo
 

@@ -1,11 +1,11 @@
 ---
-title: "Processo"
+title: Processo
 icon: lucide/git-branch
 tags: galeria
 status: not-started
-hero_image: ../attachments/hero.jpg
-hero_title: "Processo"
-hero_subtitle: "Iterações, modelos, pesquisa"
+hero_image: ../attachments/MValerio_Silhuetas.jpg
+hero_title: Processo
+hero_subtitle: Iterações, modelos, pesquisa
 hero_height: 50vh
 hero_overlay: 0.3
 hero_align: center
@@ -18,23 +18,19 @@ published: true
 
 ## 1. Protótipo(s)
 
-Fotografias em estúdio com fundo branco do(s) protótipo(s) final(is).
+Fotografias do protótipo em utilização por uma criança de 4 anos.
 
-![Protótipo final](attachments/placeholder.png)
-![](attachments/placeholder.png)
+![Protótipo final](attachments/1.jpg)
+![](attachments/2.jpg)
 
 ## 2. Processo de Prototipagem
 
-Maquinação CNC, montagem, acabamentos pontuais. 
+Maquinação CNC e montagem.
 
-![](attachments/placeholder.png)
+![](attachments/cnc1.jpeg)
+![](attachments/cnc2.jpeg)
+![](attachments/cnc3.jpeg)
 
-
-## 3. Protótipos Exploratórios
-
-Testes CNC prévios, ensaios em escala, experiências de juntas/encaixes.
-
-![](attachments/placeholder.png)
 
 ## 4. Modelos 3D
 
@@ -42,13 +38,7 @@ Embed do Fusion (visualização do modelo paramétrico).
 
 https://a360.co/4nqYoPa
 
-## 5. Outros Modelos
-
-Modelos físicos exploratórios, em cartão, espuma, madeira de teste.
-
-![](attachments/placeholder.png)
-
-## 6. Esboços e Pranchas-Resumo
+## 5. Esboços e Pranchas-Resumo
 
 Desenhos manuais, 
 pranchas A3 de síntese, 

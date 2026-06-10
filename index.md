@@ -3,9 +3,9 @@ title: FLM
 icon: lucide/users
 tags: galeria
 status: not-started
-hero_image: attachments/hero.jpg
-hero_title: NESTOR - dá forma à imaginação
-hero_subtitle: Filipa Puna ; Luna Burgos ; Marta Valério
+hero_image: attachments/EnsaioNESTOR_Luna+Marta+Filipa.jpg
+hero_title: Dá forma à imaginação
+hero_subtitle: Brinquedos com jogo de cartas
 hero_height: 100vh
 hero_overlay: 0.3
 hero_align: center
@@ -15,9 +15,8 @@ group_name: ""
 group_number: ""
 ---
 
-# Nome do Grupo
-
-> Substituam este parágrafo por uma frase de apresentação do grupo (uma linha, conceptualmente forte). A imagem de capa acima (`attachments/hero.jpg`) deve ser uma **fotografia de conjunto** dos trabalhos do grupo, mais conceptual, que espelhe a estratégia coletiva.
+# Dá forma à imaginação
+Mentes sem idade! Criatividade sem limites!
 
 ## Elementos do Grupo
 
@@ -31,7 +30,6 @@ group_number: ""
 
 ## Contexto de Design
 Nesta zona pretenderão mostrar o que relaciona estes produtos que apresentam na galeria - a temática, conceito comum, objectivos comuns, brincadeiras (funções) comuns, entre outros...![](EnsaioNESTOR_Luna+Marta+Filipa.jpg)
-
 (devem colocar imagens no corpo a qq momento, bastará que as arrastem para aqui.)
 
 Resumo, referências coletivas e moodboard do grupo encontram-se em [contexto.md](contexto.md).
@@ -51,23 +49,20 @@ Resumo, referências coletivas e moodboard do grupo encontram-se em [contexto.md
 
   <!-- duplicar o bloco abaixo para cada produto do grupo -->
 
-  <a class="gallery-card" href="produtos/_modelo/">
-    <img src="produtos/_modelo/attachments/hero.jpg" alt="" />
-    <h3>Nome do Produto</h3>
-    <p>Nome do Aluno</p>
-  </a>
+  
+  
     <a class="gallery-card" href="produtos/Filipa/">
-    <img src="produtos/Filipa/attachments/hero.jpg" alt="" />
+    <img src="produtos/Filipa/attachments/FPuna_Casas.jpg" alt="" />
     <h3>Casas de Portugal</h3>
     <p>Filipa Puna</p>
   </a>
     <a class="gallery-card" href="produtos/Luna/">
-    <img src="produtos/Luna/attachments/hero.jpg" alt="" />
+    <img src="produtos/Luna/attachments/LBurgos_Desafiate.jpg" alt="" />
     <h3>Desafia-te!</h3>
     <p>Luna Burgos</p>
   </a>
     <a class="gallery-card" href="produtos/Marta/">
-    <img src="produtos/Marta/attachments/hero.jpg" alt="" />
+    <img src="produtos/Marta/attachments/MValerio_Silhuetas.jpg" alt="" />
     <h3>Jogo das Silhuetas</h3>
     <p>Marta Valério</p>
   </a>

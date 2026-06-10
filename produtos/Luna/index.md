@@ -1,11 +1,11 @@
 ---
-title: "Nome do Produto"
+title: Nome do Produto
 icon: lucide/box
 tags: galeria
 status: not-started
-hero_image: attachments/hero.jpg
-hero_title: "Nome do Produto"
-hero_subtitle: "Nome do Aluno · 2025-26"
+hero_image: attachments/LBurgos_Desafiate.jpg
+hero_title: Desafia-te
+hero_subtitle: Luna Burgos · 2025-26
 hero_height: 80vh
 hero_overlay: 0.25
 hero_align: center
@@ -39,7 +39,7 @@ Posicionamento em relação ao contexto de grupo (ver [contexto](../../contexto.
 
 ## Tecnologia
 
-Materiais (espécie de madeira), processos de fabrico (CNC, laser, impressão 3D), software paramétrico, ficheiros técnicos.
+Materiais (espécie de madeira): Pinus https://www.redepro.com/p/10092193/compensado-pinus-10mm-250-x-160-drabecki, processos de fabrico: CNC, software paramétrico: Autodesk Fusion 360. 
 
 - Modelo 3D: <!-- embed Fusion ou link a360.co -->
 - Ficheiros: `attachments/`
