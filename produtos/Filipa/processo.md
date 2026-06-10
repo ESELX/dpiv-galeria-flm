@@ -60,7 +60,7 @@ Os esboços exploratórios/ prancha resumo das formas e encaixes do projeto Casa
 
 O projeto “Casas de Portugal” distingue-se não só pelo seu carácter educativo, ao representar a cultura portuguesa através da arquitetura das habitações, mas também pelas múltiplas possibilidades de construção, promovendo a criatividade e a motricidade fina. Valorizou-se a arquitetura de diferentes regiões do país, como o Algarve, o Alentejo, o Porto, a Madeira e Aveiro, bem como edifícios específicos, como igrejas. Cada peça apresenta uma linguagem simplificada da arquitetura portuguesa, com formas suaves e cantos arredondados.
 
-![](attachments/placeholder.png)
+![](attachments/ObjReferência_FilipaP.png)
 
 ### 7.2. Objetos de referencia
 
