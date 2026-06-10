@@ -60,7 +60,7 @@ Os esboços exploratórios/ prancha resumo das formas e encaixes do projeto Casa
 
 O projeto “Casas de Portugal” distingue-se não só pelo seu carácter educativo, ao representar a cultura portuguesa através da arquitetura das habitações, mas também pelas múltiplas possibilidades de construção, promovendo a criatividade e a motricidade fina. Valorizou-se a arquitetura de diferentes regiões do país, como o Algarve, o Alentejo, o Porto, a Madeira e Aveiro, bem como edifícios específicos, como igrejas. Cada peça apresenta uma linguagem simplificada da arquitetura portuguesa, com formas suaves e cantos arredondados.
 
-![](attachments/ObjReferência_FilipaP.png)
+![](attachments/MoodboardPipa-2.png)
 
 ### 7.2. Objetos de referencia
 
@@ -71,7 +71,7 @@ Referência à linguagem curva e simples do brinquedo concebida para tornar a co
 **Imagem 3** – Maple Effect Play Panels
 Referência aos recortes de portas, janelas e passagens que estimulam a interação e a imaginação. Esta referência contribuiu para a criação de formas associadas à arquitetura e para o desenvolvimento da dimensão lúdica e narrativa do brinquedo. A brincadeira também foi utilizada como referência, pelo que os painéis se encaixam de diversas formas possíveis, permitindo a criação de múltiplos cenários. Desta forma, este brinquedo constituiu uma forte referência para o desenvolvimento do projeto.
 
-![](attachments/placeholder.png)
+![](attachments/ObjReferência_FilipaP.png)
 
 ## 9. Outros Elementos
 
