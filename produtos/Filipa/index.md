@@ -43,9 +43,19 @@ Materiais (espécie de madeira): Pinus https://www.redepro.com/p/10092193/compen
 
 
 ## Função
+**Como se brinca?**
+O brinquedo oferece uma experiência dinâmica através de duas modalidades de jogo. Na brincadeira livre, a exploração ocorre de forma autónoma e sem regras, permitindo à criança combinar as peças como entender graças ao sistema de encaixe universal, o que estimula a imaginação espacial. Na opção de jogo com cartas, o baralho serve de ponto de partida com perguntas como "Que forma tem uma casa que nasce no meio do trigo?". Estas pistas estimulam o pensamento abstrato, convidando a criança a interpretar a história e a construir o cenário proposto na carta.
 
-Como se brinca, idade-alvo, montagem, conformidade com a Diretiva 2009/48/CE.
+**Idade:** 5 - 99 anos
 
+**Montagem:**
+Brinquedo com um único tipo de encaixe intuitivo, que permite à criança construir e transformar o cenário de forma autónoma, sem a necessidade de ferramentas, parafusos ou colas. As peças deslizam suavemente através de ranhuras largas que guiam o movimento natural das mãos, estimulando a coordenação motora fina e o raciocínio espacial. Este sistema simplificado elimina o risco de montagem incorreta e garante a estabilidade imediata da estrutura durante a brincadeira.
+
+**Conformidade com a Diretiva 2009/48/CE:**
+O brinquedo foi concebido segundo princípios de segurança infantil, eliminando cantos vivos e recorrendo a formas arredondadas e superfícies devidamente polidas, sem risco de farpas ou lascas.
+As peças apresentam dimensões suficientemente grandes para evitar riscos de asfixia, cumprindo os critérios relativos a pequenas partes. Os sistemas de encaixe foram desenvolvidos com tolerâncias controladas, prevenindo o entalamento ou compressão dos dedos durante a utilização.
+Em termos estruturais, a espessura e resistência dos componentes asseguram elevada durabilidade, reduzindo a possibilidade de fratura em caso de queda ou impacto e, consequentemente, a formação de fragmentos perigosos.
+Os materiais utilizados não incluem substâncias tóxicas nem tratamentos químicos nocivos, respeitando os requisitos das normas de segurança aplicáveis, nomeadamente a EN 71, garantindo a segurança no contacto dérmico e oral.
 ## Apresentação
 
 Imagens-chave que sintetizam o produto final. Imagem 1/4: Gerada por IA; Imagem 2/3: Mockups 
