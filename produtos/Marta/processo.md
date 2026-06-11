@@ -47,8 +47,10 @@ https://a360.co/4nqYoPa
 ## 7. Pesquisa
 
 ### 7.1. Aspectos valorizados do moodboard, desconstrução da forma (o que distingue o programa formal)
-
-![](attachments/placeholder.png)
+1. Trabalho da artista Misha Milanovich- Inspiração para a forma orgânica das peças
+2. Jogo de construção Bauhaus, desenhado por Alma Siedhoff-Buscher, 1923- Serviu para ter uma noção de como as formas simples são mais perceptíveis em silhueta 
+3. TomTect- Marca escolhida para redesenho- Troca do sistema de encaixe
+![](attachments/pesquisa_marta.jpeg)
 
 ### 7.2. Objetos de referencia
 
