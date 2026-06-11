@@ -53,7 +53,7 @@ Modelos físicos exploratórios, em cartão, espuma, madeira de teste.
 Os esboços exploratórios/ prancha resumo das formas e encaixes do projeto Casas de Portugal: 
 
 ![](attachments/casas_prancha.jpeg)
-
+![](attachments/filipa_Pr.png)
 ## 7. Pesquisa
 
 ### 7.1. Aspectos valorizados do moodboard, desconstrução da forma (o que distingue o programa formal)
