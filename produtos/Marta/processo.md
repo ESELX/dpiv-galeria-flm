@@ -35,7 +35,7 @@ Maquinação CNC e montagem.
 
 Embed do Fusion (visualização do modelo paramétrico).
 
-https://a360.co/4nqYoPa
+https://a360.co/43pcqaW
 
 ## 5. Esboços e Pranchas-Resumo
 
