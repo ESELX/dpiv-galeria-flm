@@ -19,8 +19,8 @@ published: true
 
 Fotografias do protótipo em utilização por uma criança de 4 anos.
 
-![Protótipo final](attachments/1.jpg)
-![](attachments/2.jpg)
+![Protótipo final](attachments/1.png)
+![](attachments/2.png)
 
 ## 2. Processo de Prototipagem
 
