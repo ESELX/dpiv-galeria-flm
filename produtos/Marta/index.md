@@ -45,7 +45,7 @@ O projeto surge no âmbito da marca Nestor e foi desenvolvido a partir da análi
 
 Materiais (espécie de madeira): Pinus https://www.redepro.com/p/10092193/compensado-pinus-10mm-250-x-160-drabecki, processos de fabrico: CNC, software paramétrico: Autodesk Fusion 360. 
 
-- Modelo 3D: <!-- https://a360.co/43pcqaW -->
+- Modelo 3D:  https://a360.co/43pcqaW 
 
 ## Função
 
