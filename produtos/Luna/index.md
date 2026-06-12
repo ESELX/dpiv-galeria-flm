@@ -34,7 +34,7 @@ Combina formas orgânicas e encaixes deslizantes para dar vida a desafios criati
 
 **Porquê:** O produto combina liberdade criativa com um propósito claro, incentivando a experimentação e o pensamento lateral. Ao testar diferentes combinações de encaixes e equilíbrios, promove a concentração, a coordenação motora fina e a capacidade de resolver problemas de forma intuitiva, sem a pressão de uma única solução "certa".
 
-![](attachments/placeholder.png)
+![](attachments/conceito_lb.jpg)
 
 ## Enquadramento
 
@@ -53,7 +53,13 @@ Materiais (espécie de madeira): Pinus https://www.redepro.com/p/10092193/compen
 
 ## Função
 
-Como se brinca, idade-alvo, montagem, conformidade com a Diretiva 2009/48/CE.
+**Como se brinca?:** O "Desafia-te!" oferece duas modalidades de jogo. Na brincadeira livre, o jogador explora as 20 peças sem regras definidas, combinando-as livremente graças ao sistema de encaixes deslizantes, o que estimula a imaginação espacial e a experimentação. Na opção de jogo com cartas, o baralho propõe pequenos desafios como "Faz uma torre com 3 peças", orientando a construção sem limitar a criatividade.
+
+**Idade:** 4/5 - 99 anos
+
+**Montagem:** As 20 peças com formas orgânicas utilizam um sistema de encaixe deslizante intuitivo. 7 peças possuem dois encaixes paralelos, permitindo ramificações na construção, enquanto as restantes têm um único encaixe. As peças deslizam suavemente através de ranhuras que guiam o movimento natural das mãos, sem necessidade de ferramentas, parafusos ou colas, estimulando a coordenação motora fina e o raciocínio espacial. O sistema garante estabilidade imediata das estruturas construídas.
+
+**Conformidade com a Diretiva 2009/48/CE:** O brinquedo foi concebido segundo princípios de segurança infantil, eliminando cantos vivos e recorrendo a formas arredondadas e superfícies devidamente polidas, sem risco de farpas ou lascas. As peças apresentam dimensões suficientemente grandes para evitar riscos de asfixia, cumprindo os critérios relativos a pequenas partes. Os encaixes deslizantes foram desenvolvidos com tolerâncias controladas, prevenindo o entalamento ou compressão dos dedos durante a utilização. A espessura e resistência das peças asseguram durabilidade e reduzem a possibilidade de fratura em caso de queda ou impacto. Os materiais utilizados não incluem substâncias tóxicas nem tratamentos químicos nocivos, respeitando os requisitos da norma EN 71, garantindo segurança no contacto dérmico e oral.
 
 ## Apresentação
 
