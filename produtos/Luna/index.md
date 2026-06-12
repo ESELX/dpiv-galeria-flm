@@ -4,7 +4,7 @@ icon: lucide/box
 tags: galeria
 status: not-started
 hero_image: attachments/LBurgos_Desafiate.jpg
-hero_title: Desafia-te
+hero_title: Desafia-te!
 hero_subtitle: Luna Burgos · 2025-26
 hero_height: 80vh
 hero_overlay: 0.25
@@ -40,7 +40,7 @@ Combina formas orgânicas e encaixes deslizantes para dar vida a desafios criati
 
 O projeto insere-se no contexto do grupo através da exploração de formas modulares irregulares e curvas, partindo da análise de brinquedos de construção modular, do trabalho da artista Misha Milovanovich e do sistema TomTect, utilizando estas referências formais como ponto de partida para o processo de redesenho. 
 
-No âmbito da marca Nestor, o trabalho individual desenvolveu-se nesta linha, propondo um novo sistema de encaixes deslizantes integrados diretamente nas peças de madeira, eliminando o uso de conectores de plástico e simplificando o processo construtivo. É a partir deste enquadramento que surge o Desafia-te!, composto por 20 peças de madeira com formas orgânicas e encaixes deslizantes e acompanhado por um baralho de cartas.
+No âmbito da marca Nestor, o trabalho individual desenvolveu-se nesta linha, propondo um novo sistema de encaixes deslizantes integrados diretamente nas peças de madeira, eliminando o uso de conectores de plástico e simplificando o processo construtivo. É a partir deste enquadramento que surge o "Desafia-te!", composto por 20 peças de madeira com formas orgânicas e encaixes deslizantes e acompanhado por um baralho de cartas.
 
 O jogo combina liberdade criativa com um propósito concreto, sendo destinado a um público amplo, desde crianças a partir dos 4/5 anos até idosos, promovendo a concentração, a coordenação motora fina e o raciocínio lógico de forma intuitiva e lúdica. (ver [contexto](../../contexto.md))
 
