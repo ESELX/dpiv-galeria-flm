@@ -51,7 +51,7 @@ O jogo combina liberdade criativa com um propósito concreto, sendo destinado a 
 
 Materiais (espécie de madeira): Pinus https://www.redepro.com/p/10092193/compensado-pinus-10mm-250-x-160-drabecki, processos de fabrico: CNC, software paramétrico: Autodesk Fusion 360. 
 
-- Modelo 3D: <!-- embed Fusion ou link a360.co -->
+- Modelo 3D: [<!-- embed Fusion ou link a360.co -->](https://a360.co/3SCzjFr)
 - Ficheiros: `attachments/`
 
 ## Função
