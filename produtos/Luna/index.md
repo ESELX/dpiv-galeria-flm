@@ -14,7 +14,7 @@ student_name: ""
 student_number: ""
 ---
 
-# Nome do Produto
+# Desafia-te!
 
 <!--
   HERO: idealmente uma pseudo-sessão fotográfica do produto
@@ -22,10 +22,7 @@ student_number: ""
   /Recursos/AI_exps/). Usa attachments/hero.jpg para o frontmatter.
 -->
 
-> Frase-conceito (uma linha): qual é a proposta?
-
-A página deve tornar **visualmente percetível** a estratégia de resposta ao enunciado.
-Segue a estrutura de **prancha-resumo** + **esquema-base** (C-E-T-F).
+Combina formas orgânicas e encaixes deslizantes para dar vida a desafios criativos.
 
 ## Conceito
 
