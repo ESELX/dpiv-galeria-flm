@@ -14,14 +14,24 @@ published: true
 
 # Processo
 
-> Organizado do **mais recente** para o **mais antigo**. Faz uma seleção que torne clara, aprazível e detalhada a evolução do produto e das ideias.
+> O projeto, depois ser feito o protótipo, sofreu duas alterações: 
+> 
+> Tamanho das peças. As primeiras tinham cerca de 190mm X 190mm, o que, depois de fazer o corte na CNC, percebi que seria uma medida muito grande. A mesma foi alterada para 120mm X 120mm. E, consequentemente, o tamanho do encaixe que era de 95mm e passou para 60mm; 
+> 
+> As peças que tinham dois encaixes perpendiculares. Estas, por terem encaixes que se cruzavam, ao encaixar uma peça, a outra (por estar a 90º graus) não deslizava na totalidade. Assim, foram usados apenas encaixes paralelos para não haver problemas de cruzamentos entre peças.
+
+Link do modelo 3D antigo: https://a360.co/3PJg6B8
+
+Estes pontos fracos só foram detectados e melhorados devido à execução do protótipo na CNC.
 
 ## 1. Protótipo(s)
 
-O protótipo feito não foi fotografado
 
-![Protótipo final](attachments/placeholder.png)
-![](attachments/placeholder.png)
+
+![Protótipo final](attachments/prototipo1_lb.jpeg)
+
+![](attachments/prototipo2_lb.jpeg)
+![](attachments/prototipo3_lb.jpeg)
 
 ## 2. Processo de Prototipagem
 
