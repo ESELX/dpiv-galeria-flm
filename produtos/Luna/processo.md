@@ -27,7 +27,7 @@ Fotografias em estúdio com fundo branco do(s) protótipo(s) final(is).
 
 Maquinação CNC, montagem, acabamentos pontuais. 
 
-![](attachments/placeholder.png)
+![](attachments/prototipo_lb.jpeg)
 
 
 ## 3. Protótipos Exploratórios
@@ -65,7 +65,3 @@ exploração de variantes.
 ### 7.2. Objetos de referencia
 
 Para a criação do baralho de cartas que acompanha o brinquedo, usei como inspiração os produtos da marca KEVA Planks ([KEVA Planks | Educational STEM Wooden Building Blocks, Games](https://www.kevaplanks.com/)). Os produtos vêm acompanhados por cartas com desafios de construção, desde simples ("faz uma torre") a mais complexos, com diferentes níveis de dificuldade. Como por exemplo: ([Kit Inicial KEVA Desafios PDF | Tábuas KEVA](https://www.kevaplanks.com/shop/starterpdf-keva-challenges-starter-pack-pdf-46?category=60#attribute_values=12))
-
-## 9. Outros Elementos
-
-Outros materiais relevantes para a preparação do conceito (entrevistas, observação, testes com utilizadores, notas, leituras, inspirações).
