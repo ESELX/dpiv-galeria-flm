@@ -1,5 +1,5 @@
 ---
-title: Nome do Produto
+title: Desafia-te!
 icon: lucide/box
 tags: galeria
 status: not-started
