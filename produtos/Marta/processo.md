@@ -14,14 +14,13 @@ published: true
 
 # Processo
 
-> Organizado do **mais recente** para o **mais antigo**. Faz uma seleção que torne clara, aprazível e detalhada a evolução do produto e das ideias.
 
 ## 1. Protótipo(s)
 
 Fotografias do protótipo em utilização por uma criança de 4 anos.
 
-![Protótipo final](attachments/1.jpg)
-![](attachments/2.jpg)
+![Protótipo final](attachments/1.png)
+![](attachments/2.png)
 
 ## 2. Processo de Prototipagem
 
@@ -36,28 +35,26 @@ Maquinação CNC e montagem.
 
 Embed do Fusion (visualização do modelo paramétrico).
 
-https://a360.co/4nqYoPa
+https://a360.co/43pcqaW
 
 ## 5. Esboços e Pranchas-Resumo
 
-Desenhos manuais, 
-pranchas A3 de síntese, 
-exploração de variantes.
+1.  Prancha Resumo Inicial
+2. Prancha Resumo Final
 
-![](attachments/placeholder.png)
-
+![](attachments/pr_marta1.jpeg)
+![](attachments/pr_marta2.jpeg)
 ## 7. Pesquisa
 
 ### 7.1. Aspectos valorizados do moodboard, desconstrução da forma (o que distingue o programa formal)
-
-![](attachments/placeholder.png)
+1. Trabalho da artista Misha Milanovich- Inspiração para a forma orgânica das peças
+2. Jogo de construção Bauhaus, desenhado por Alma Siedhoff-Buscher, 1923- Serviu para ter uma noção de como as formas simples são mais perceptíveis em silhueta 
+3. TomTect- Marca escolhida para redesenho- Troca do sistema de encaixe
+![](attachments/pesquisa_marta.jpeg)
 
 ### 7.2. Objetos de referencia
 
-Inventário de precedentes, brinquedos análogos, referências históricas.
+Como inspiração usei os jogos de silhueta, onde temos que encontrar a carta ou o objeto correspondente à silhueta.
 
-![](attachments/placeholder.png)
+![](attachments/jogoref_Marta.png)
 
-## 9. Outros Elementos
-
-Outros materiais relevantes para a preparação do conceito (entrevistas, observação, testes com utilizadores, notas, leituras, inspirações).

@@ -29,8 +29,11 @@ Mentes sem idade! Criatividade sem limites!
 ---
 
 ## Contexto de Design
-Nesta zona pretenderão mostrar o que relaciona estes produtos que apresentam na galeria - a temática, conceito comum, objectivos comuns, brincadeiras (funções) comuns, entre outros...![](EnsaioNESTOR_Luna+Marta+Filipa.jpg)
-(devem colocar imagens no corpo a qq momento, bastará que as arrastem para aqui.)
+A marca Nestor é uma marca de brinquedos de madeira reutilizada, com o lema “Dá forma à Imaginação”.
+É uma marca que apela à criatividade e às capacidades motoras sendo uma ponte entre gerações. Desenvolvemos sistemas de encaixe que desafiam a originalidade, eliminando as instruções para que a criatividade não esteja restrita a uma forma em específico.
+
+Apresentamos um propósito duplo, proporcionar o desenvolvimento das capacidades motoras e o treino cognitivo, tanto para a criança que descobre o mundo como para o idoso que exercita a sua agilidade e capacidade mental e motora.
+![](EnsaioNESTOR_Luna+Marta+Filipa.jpg)
 
 Resumo, referências coletivas e moodboard do grupo encontram-se em [contexto.md](contexto.md).
 

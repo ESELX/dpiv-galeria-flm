@@ -34,6 +34,8 @@ Os esboços exploratórios/ prancha resumo das formas e encaixes do projeto Casa
 ![](attachments/casas_prancha.jpeg)
 
 ## 4. Pesquisa
+![](attachments/filipa_Pr.png)
+## 4. Pesquisa
 
 ### 4.1. Aspectos valorizados do moodboard, desconstrução da forma (o que distingue o programa formal)
 
