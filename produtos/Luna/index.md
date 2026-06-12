@@ -65,8 +65,10 @@ Materiais (espécie de madeira): Pinus https://www.redepro.com/p/10092193/compen
 
 Imagens-chave que sintetizam o produto final.
 
-![](attachments/placeholder.png)
-![](attachments/placeholder.png)
+![](attachments/LBurgos_Desafiate.jpg)
+![](attachments/cartas_desafia-te.png)
+![](attachments/pin_desafiate.jpeg)
+![](attachments/mockup_lb.jpg)
 
 ---
 
