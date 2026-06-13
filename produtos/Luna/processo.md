@@ -57,7 +57,7 @@ exploração de variantes.
 
 ### 5.1. Aspectos valorizados do moodboard, desconstrução da forma (o que distingue o programa formal)
 
-![](attachments/placeholder.png)
+![](attachments/pesquisa_lb.png)
 
 ### 5.2. Objetos de referencia
 
