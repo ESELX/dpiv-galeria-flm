@@ -67,7 +67,7 @@ Imagens-chave que sintetizam o produto final.
 ![](attachments/LBurgos_Desafiate.jpg)
 ![](attachments/cartas_desafia-te.png)
 ![](attachments/pin_desafiate.jpeg)
-![](attachments/mockup_lb.jpg)
+![](attachments/mockup_pecas_lb.jpg)
 
 
 ---
