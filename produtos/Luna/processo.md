@@ -47,12 +47,9 @@ https://a360.co/3SCzjFr
 
 ## 4. Esboços e Pranchas-Resumo
 
-Desenhos manuais, 
-pranchas A3 de síntese, 
-exploração de variantes.
+![](attachments/esboco_lb.jpeg)
 
 ![](attachments/moodbord_lb.png)
-
 ## 5. Pesquisa
 
 ### 5.1. Aspectos valorizados do moodboard, desconstrução da forma (o que distingue o programa formal)
