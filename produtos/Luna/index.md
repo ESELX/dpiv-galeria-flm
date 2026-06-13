@@ -69,6 +69,7 @@ Imagens-chave que sintetizam o produto final.
 ![](attachments/pin_desafiate.jpeg)
 ![](attachments/mockup_lb.jpg)
 
+
 ---
 
 ## Processo
