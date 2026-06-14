@@ -51,4 +51,4 @@ Referência à linguagem curva e simples do brinquedo concebida para tornar a co
 **Imagem 3** – Maple Effect Play Panels
 Referência aos recortes de portas, janelas e passagens que estimulam a interação e a imaginação. Esta referência contribuiu para a criação de formas associadas à arquitetura e para o desenvolvimento da dimensão lúdica e narrativa do brinquedo. A brincadeira também foi utilizada como referência, pelo que os painéis se encaixam de diversas formas possíveis, permitindo a criação de múltiplos cenários. Desta forma, este brinquedo constituiu uma forte referência para o desenvolvimento do projeto.
 
-![](attachments/ObjReferência_FilipaP.png)
+![](attachments/objreferencia_FilipaP.png)
