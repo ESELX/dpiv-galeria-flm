@@ -27,9 +27,9 @@ student_number: ""
 
 ## Conceito
 
-Este projeto consiste num brinquedo de construção modular inspirado nas casas e igrejas tradicionais portuguesas. Produzido a partir de resíduos industriais reaproveitados através de um sistema digital inteligente e de corte CNC, o brinquedo utiliza encaixes de deslize que permitem múltiplas configurações. Destinado a crianças e idosos, promove a sustentabilidade, a motricidade fina e a criatividade de forma lúdica e educativa.
+Este projeto consiste num brinquedo de construção modular inspirado nas casas e igrejas tradicionais portuguesas, onde o objetivo é construir uma casa para determinado cenário ilustrado na carta. Produzido a partir de resíduos industriais reaproveitados através de um sistema digital inteligente e de corte CNC, o brinquedo utiliza encaixes de deslize que permitem múltiplas configurações. Destinado a crianças a partir dos ⅘ anos e idosos, promove a sustentabilidade, a motricidade fina, a criatividade e a imaginação de forma lúdica e educativa.
 
-![](attachments/placeholder.png)
+![](attachments/conceito_filipap.png)
 
 ## Enquadramento
 
